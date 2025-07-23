@@ -14,7 +14,7 @@ Perfect for gamers, streamers, or content creators who want to quickly review or
 
 ## 🎬 Demo Video
 
-![Screenshot](./Demo/demoVideo.mp4)
+![Demo](./Demo/demoGIF.gif)
 
 ---
 
