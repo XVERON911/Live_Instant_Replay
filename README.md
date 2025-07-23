@@ -8,7 +8,7 @@ Perfect for gamers, streamers, or content creators who want to quickly review or
 
 ## 🖼️ Screenshot
 
-![Screenshot](./Resources/screenshot.png)
+![Screenshot](./Demo/screenshot.png)
 
 ---
 
