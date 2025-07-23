@@ -33,8 +33,8 @@ Perfect for gamers, streamers, or content creators who want to quickly review or
 1. **Download the latest ZIP** from the [Releases](https://github.com/your-username/LIR/releases) page
 2. **Extract** it anywhere on your PC
 3. **Run `LIR.exe`**
-4. Configure your buffer length and hotkeys
-5. Start your game and enjoy live replays!
+4. Configure your buffer length and Hotkey
+5. Just Press the Hotkey anytime to watch the last moments of your game.
 
 ---
 
