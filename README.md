@@ -14,8 +14,7 @@ Perfect for gamers, streamers, or content creators who want to quickly review or
 
 ## 🎬 Demo Video
 
-[▶ Watch the demo video](https://your-link-to-video.com)  
-*(Replace with your actual video link, YouTube or GitHub-hosted MP4)*
+![Screenshot](./Demo/demoVideo.Mp4)
 
 ---
 
