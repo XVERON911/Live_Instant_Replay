@@ -41,7 +41,7 @@ Perfect for gamers, streamers, or content creators who want to quickly review or
 
 ## 📦 Download
 
-👉 [Download the latest version here](https://github.com/your-username/LIR/releases/latest)
+👉 [Download the latest version here](https://github.com/XVERON911/Live_Instant_Replay/releases/latest)
 
 > ⚠️ No installation required. Just extract and run.
 
@@ -61,13 +61,6 @@ See [`LICENSE.txt`](./LICENSE.txt) for usage restrictions.
 - More overlay positioning options
 - Replay saving/sharing
 - UI theming
-
----
-
-## 🧑‍💻 Developed By
-
-**Zeyad Waleed**  
-Made with ❤️ for competitive and casual gamers alike
 
 ---
 
